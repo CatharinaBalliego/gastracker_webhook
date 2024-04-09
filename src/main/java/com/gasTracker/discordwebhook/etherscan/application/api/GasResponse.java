@@ -1,6 +1,6 @@
-package com.gasTracker.discordwebhook.Etherscan.GasTracker.application.api;
+package com.gasTracker.discordwebhook.etherscan.application.api;
 
-import com.gasTracker.discordwebhook.Etherscan.GasTracker.domain.Gas;
+import com.gasTracker.discordwebhook.etherscan.domain.Gas;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;

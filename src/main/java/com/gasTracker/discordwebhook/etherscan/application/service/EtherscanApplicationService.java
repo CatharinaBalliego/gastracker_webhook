@@ -1,7 +1,7 @@
-package com.gasTracker.discordwebhook.Etherscan.GasTracker.application.service;
+package com.gasTracker.discordwebhook.etherscan.application.service;
 
-import com.gasTracker.discordwebhook.Etherscan.GasTracker.application.api.GasResponse;
-import com.gasTracker.discordwebhook.Etherscan.GasTracker.domain.Gas;
+import com.gasTracker.discordwebhook.etherscan.application.api.GasResponse;
+import com.gasTracker.discordwebhook.etherscan.domain.Gas;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;

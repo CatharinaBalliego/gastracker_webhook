@@ -1,7 +1,7 @@
-package com.gasTracker.discordwebhook.Etherscan.GasTracker.application;
+package com.gasTracker.discordwebhook.etherscan.application;
 
-import com.gasTracker.discordwebhook.Etherscan.GasTracker.application.api.GasResponse;
-import com.gasTracker.discordwebhook.Etherscan.GasTracker.application.service.EtherscanService;
+import com.gasTracker.discordwebhook.etherscan.application.api.GasResponse;
+import com.gasTracker.discordwebhook.etherscan.application.service.EtherscanService;
 import com.gasTracker.discordwebhook.discord.api.service.DiscordService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;

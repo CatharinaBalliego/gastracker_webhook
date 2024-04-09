@@ -1,4 +1,4 @@
-package com.gasTracker.discordwebhook.Etherscan.GasTracker.domain;
+package com.gasTracker.discordwebhook.etherscan.domain;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.ObjectMapper;
